@@ -1,0 +1,6 @@
+.agents/
+.superpowers/*
+!.superpowers/specs
+!.superpowers/specs/**
+__pycache__/
+.DS_Store
